@@ -8,5 +8,5 @@ def printPrime(range1, range2):
             else:
                 flag=0
         if(flag==0):
-            print(num)
+            print(num);;;
 printPrime(1000,2000)
