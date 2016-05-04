@@ -2,5 +2,5 @@ machine:
   python:
     version: 2.7.5
 test:
-post:
--python test.py
+  post:
+    - python test.py
