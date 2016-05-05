@@ -9,6 +9,4 @@ def printPrime(range1, range2):
                 flag=0
         if(flag==0):
             print(num)
-            
-       
-printPrime(100,500)
+printPrime(1000,500)
